@@ -1,7 +1,6 @@
 import random
 
 number = random.randint(1, 100)
-aa = 1
 
 def num ():
     print ('1부터 100까지의 수를 맞춰 보세요!')
